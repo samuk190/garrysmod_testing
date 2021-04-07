@@ -1,0 +1,6 @@
+Tue Apr  6 23:19:23 2021	Heisenberg (STEAM_0:1:26177108) has joined the game
+Tue Apr  6 23:19:23 2021	Heisenberg (STEAM_0:1:26177108) spawned
+Tue Apr  6 23:20:22 2021	Heisenberg (STEAM_0:1:26177108): /server
+Tue Apr  6 23:20:25 2021	Heisenberg (STEAM_0:1:26177108): 
+Tue Apr  6 23:20:30 2021	Heisenberg (STEAM_0:1:26177108): /setjob
+Tue Apr  6 23:20:36 2021	Heisenberg (STEAM_0:1:26177108): 

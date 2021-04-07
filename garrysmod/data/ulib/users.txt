@@ -1,0 +1,11 @@
+"STEAM_0:1:26177108"	
+{
+	"name"	"Heisenberg"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}

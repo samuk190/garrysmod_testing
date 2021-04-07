@@ -1,0 +1,84 @@
+Heisenberg|3|STEAM_0:1:26177108
+SetPlayerClass - attempt to use unknown player class player_sandbox!
+
+
+Heisenberg|2|STEAM_0:1:26177108
+SetPlayerClass - attempt to use unknown player class player_sandbox!
+
+
+Heisenberg|3|STEAM_0:1:26177108
+SetPlayerClass - attempt to use unknown player class player_sandbox!
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:5: '<name>' expected near 'end'
+
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:4: '<name>' expected near '"Roboto"'
+
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:4: '<name>' expected near '"Roboto"'
+
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:4: '<name>' expected near '"Roboto"'
+
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:4: '<name>' expected near '"test"'
+
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:4: '<name>' expected near '"test"'
+
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:4: '<name>' expected near '"test"'
+
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:4: '<name>' expected near '"test"'
+
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:4: '<name>' expected near '"Roboto"'
+
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:4: '<name>' expected near '"Roboto"'
+
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:4: '<name>' expected near '"Roboto"'
+
+
+
+Heisenberg|2|STEAM_0:1:26177108
+
+[ERROR] lua/autorun/teste.lua:4: '<name>' expected near '"Roboto"'
+
+
+

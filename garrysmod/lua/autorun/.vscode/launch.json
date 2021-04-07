@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name" :"Trying to debug",
+      "type": "lua",
+      "request": "attach",
+      "address": "127.0.0.1:27015",
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[23:18:47] New map: gm_construct
+[23:18:48] Client "Heisenberg" connected.
+[23:19:23] Client "Heisenberg" spawned in server <STEAM_0:1:26177108> (took 35 seconds).
+[23:20:22] Heisenberg: /server
+[23:20:30] Heisenberg: /setjob
+[23:59:36] Server is shutting down/changing levels.
+
+
+
+[23:59:55] New map: gm_construct
+<Logging continued in "data/ulx_logs/04-07-21.txt">

@@ -1,0 +1,6 @@
+<Logging continued from "data/ulx_logs/04-06-21.txt">
+[00:01:51] Client "Heisenberg" connected.
+[00:02:01] Client "Heisenberg" spawned in server <STEAM_0:1:26177108> (took 10 seconds).
+[00:35:41] (Console) added Heisenberg to group superadmin
+[00:43:03] Dropped "Heisenberg" from server<STEAM_0:1:26177108>
+[03:41:38] Server is shutting down/changing levels.
